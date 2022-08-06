@@ -16,7 +16,7 @@ Belajar kelas Memulai Pemrograman dengan Javascript. (Progres 56%)
 
   * Belajar control flow dalam Javascript, seperti perulangan dan percabangan.
 
-**6 Agustus 2022**
+**8 Agustus 2022**
 
 Belajar kelas Memulai Pemrograman dengan Javascript. (Progres 100%)
 
